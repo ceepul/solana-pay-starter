@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Flowers Need Rain",
+    "price": "0.15",
+    "description": "A bangin tune by Preston Pablo and Banx & Ranx",
+    "image_url": "https://i.imgur.com/cqcWMYP.jpeg",
+    "filename": "flowers_need_rain.zip",
+    "hash": "QmRAYZiWCojpT4jPzeLHb1XNrnnKT6BDtWi5J7euzqoV6Y"
+  },
+  {
+    "id": 2,
+    "name": "The Difference",
+    "price": "1.00",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b2/The_Difference_by_Flume_and_Toro_y_Moi.png",
+    "description": "Damn good song by Flume, Toro y Moi",
+    "filename": "the_difference.zip",
+    "hash": "QmVgbwjgq7HNLfm74MmdSW8dMChWgcMC9qjRjYhZboiMFA"
+  }
+]
